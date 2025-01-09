@@ -1,0 +1,2 @@
+Update For the Day:
+    Shadowed a mock session on design_yelp
